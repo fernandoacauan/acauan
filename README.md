@@ -6,7 +6,7 @@
 😉 I'm an junior programmer specializing in .NET (C#, ASP.NET MVC), MS SQL Server, and JavaScript frameworks (
 React, Angular).  
 🔭 I have some experience in developing **desktop applications** (WinForms,
-ConsoleApp). I also learning **web development**.  
+ConsoleApp). I'm also learning **web development**.  
 
 ### 🛠 Programming languages
 
