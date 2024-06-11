@@ -4,11 +4,10 @@
 ### 👨‍💻 About me
 
 😉 I'm an junior programmer specializing in .NET (C#, ASP.NET MVC), MS SQL Server, and JavaScript frameworks (
-React, Angular).  
-🔭 I have some experience in developing **desktop applications** (WinForms,
+React, Angular). I have some experience in developing **desktop applications** (Windows Forms,WPF and
 ConsoleApp). I'm also learning **web development**.  
 
-### 🛠 Programming languages
+### 🥋 Programming languages
 
 <p>
     <a href="https://github.com/search?q=user%3Afernandoacauan+language%3Acsharp"><img alt="C#" src="https://custom-icon-badges.herokuapp.com/badge/C%23-68217A.svg?style=flat&logo=cs2&logoColor=white"></a>
